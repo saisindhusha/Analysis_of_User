@@ -16,3 +16,7 @@ cd C:\Users\Sai Sindhusha\Desktop\New folder\Analysis Of User
 
 Run ->
 python app.py
+
+**Final Output**
+![image](https://github.com/saisindhusha/Analysis_of_User/assets/52554773/a0828487-4159-451e-9580-013c5cb20a12)
+
