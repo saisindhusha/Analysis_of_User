@@ -1,0 +1,15 @@
+how to run
+
+open anaconda prompt form search
+
+type
+conda activate tf ( enter )
+
+type 
+
+cd C:\Users\Sai Sindhusha\Desktop\New folder\Analysis Of User
+
+
+
+python app.py 
+
